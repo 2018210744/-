@@ -173,7 +173,7 @@ void loop() {
             audio_choose(1);
             break;
           case 3:
-            audio_choose(1);
+            audio_choose(2);
             break;
         }
         playing = true;
